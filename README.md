@@ -15,7 +15,7 @@ SETUP INSTRUCTIONS (USING POETRY)
     Follow the instructions at:  
     [https://python-poetry.org/docs/#installation](https://python-poetry.org/docs/#installation)
     
-2.  Clone the repository  git clone https://github.com/anualiassynbrains/Scrapingtask_task_7
+2.  Clone the repository  git clone https://github.com/anualiassynbrains/scrapingtask_task_7
     ```bash
     cd your-repo-name
     
