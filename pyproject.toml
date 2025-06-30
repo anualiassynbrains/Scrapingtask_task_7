@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "scraping"
+version = "0.1.0"
+description = "Scraping Project - Books, Models, and Quotes"
+authors = ["anualiassynbrains <anu.alias@synbrains.ai>"]
+readme = "README.md"
+packages = [{include = "scraping", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.32.4"
+beautifulsoup4 = "^4.13.4"
+playwright = "^1.53.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

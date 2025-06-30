@@ -1,0 +1,212 @@
+[
+    {
+        "model_name": "black-forest-labs/FLUX.1-Kontext-dev",
+        "likes": 973,
+        "downloads": "1",
+        "source_url": "/black-forest-labs/FLUX.1-Kontext-dev",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "tencent/Hunyuan-A13B-Instruct",
+        "likes": 539,
+        "downloads": "1",
+        "source_url": "/tencent/Hunyuan-A13B-Instruct",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "google/gemma-3n-E4B-it",
+        "likes": 267,
+        "downloads": "3",
+        "source_url": "/google/gemma-3n-E4B-it",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "google/magenta-realtime",
+        "likes": 409,
+        "downloads": "7",
+        "source_url": "/google/magenta-realtime",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "OmniGen2/OmniGen2",
+        "likes": 258,
+        "downloads": "6",
+        "source_url": "/OmniGen2/OmniGen2",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "nanonets/Nanonets-OCR-s",
+        "likes": 1,
+        "downloads": "9",
+        "source_url": "/nanonets/Nanonets-OCR-s",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "Menlo/Jan-nano-128k",
+        "likes": 157,
+        "downloads": "2",
+        "source_url": "/Menlo/Jan-nano-128k",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "maya-research/Veena",
+        "likes": 130,
+        "downloads": "5",
+        "source_url": "/maya-research/Veena",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+        "likes": 286,
+        "downloads": "3.2",
+        "source_url": "/mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "jinaai/jina-embeddings-v4",
+        "likes": 113,
+        "downloads": "3",
+        "source_url": "/jinaai/jina-embeddings-v4",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "bullerwins/FLUX.1-Kontext-dev-GGUF",
+        "likes": 112,
+        "downloads": "1",
+        "source_url": "/bullerwins/FLUX.1-Kontext-dev-GGUF",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "MiniMaxAI/MiniMax-M1-80k",
+        "likes": 605,
+        "downloads": "6",
+        "source_url": "/MiniMaxAI/MiniMax-M1-80k",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "black-forest-labs/FLUX.1-dev",
+        "likes": 10,
+        "downloads": "1",
+        "source_url": "/black-forest-labs/FLUX.1-dev",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "Comfy-Org/flux1-kontext-dev_ComfyUI",
+        "likes": 100,
+        "downloads": "3",
+        "source_url": "/Comfy-Org/flux1-kontext-dev_ComfyUI",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "google/gemma-3n-E4B-it-litert-preview",
+        "likes": 1,
+        "downloads": "26",
+        "source_url": "/google/gemma-3n-E4B-it-litert-preview",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "moonshotai/Kimi-VL-A3B-Thinking-2506",
+        "likes": 158,
+        "downloads": "2506",
+        "source_url": "/moonshotai/Kimi-VL-A3B-Thinking-2506",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "google/gemma-3n-E2B-it",
+        "likes": 79,
+        "downloads": "3",
+        "source_url": "/google/gemma-3n-E2B-it",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "Menlo/Jan-nano",
+        "likes": 427,
+        "downloads": "2",
+        "source_url": "/Menlo/Jan-nano",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "deepseek-ai/DeepSeek-R1-0528",
+        "likes": 2,
+        "downloads": "0528",
+        "source_url": "/deepseek-ai/DeepSeek-R1-0528",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "POLARIS-Project/Polaris-4B-Preview",
+        "likes": 98,
+        "downloads": "14",
+        "source_url": "/POLARIS-Project/Polaris-4B-Preview",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "unsloth/gemma-3n-E4B-it-GGUF",
+        "likes": 67,
+        "downloads": "1",
+        "source_url": "/unsloth/gemma-3n-E4B-it-GGUF",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "tencent/Hunyuan3D-2.1",
+        "likes": 474,
+        "downloads": "2.1",
+        "source_url": "/tencent/Hunyuan3D-2.1",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "vrgamedevgirl84/Wan14BT2VFusioniX",
+        "likes": 334,
+        "downloads": "8",
+        "source_url": "/vrgamedevgirl84/Wan14BT2VFusioniX",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "lodestones/Chroma",
+        "likes": 969,
+        "downloads": "3",
+        "source_url": "/lodestones/Chroma",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "THU-KEG/LongWriter-Zero-32B",
+        "likes": 65,
+        "downloads": "6",
+        "source_url": "/THU-KEG/LongWriter-Zero-32B",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "ResembleAI/chatterbox",
+        "likes": 896,
+        "downloads": "1",
+        "source_url": "/ResembleAI/chatterbox",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "google/videoprism",
+        "likes": 66,
+        "downloads": "6",
+        "source_url": "/google/videoprism",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "AIDC-AI/Ovis-U1-3B",
+        "likes": 56,
+        "downloads": "1",
+        "source_url": "/AIDC-AI/Ovis-U1-3B",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "meta-llama/Llama-3.1-8B-Instruct",
+        "likes": 4,
+        "downloads": "3.1",
+        "source_url": "/meta-llama/Llama-3.1-8B-Instruct",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "moonshotai/Kimi-Dev-72B",
+        "likes": 295,
+        "downloads": "13",
+        "source_url": "/moonshotai/Kimi-Dev-72B",
+        "data_source": "huggingface"
+    }
+]
