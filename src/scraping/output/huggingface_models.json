@@ -1,21 +1,21 @@
 [
     {
         "model_name": "black-forest-labs/FLUX.1-Kontext-dev",
-        "likes": 973,
+        "likes": 976,
         "downloads": "1",
         "source_url": "/black-forest-labs/FLUX.1-Kontext-dev",
         "data_source": "huggingface"
     },
     {
         "model_name": "tencent/Hunyuan-A13B-Instruct",
-        "likes": 539,
-        "downloads": "1",
+        "likes": 542,
+        "downloads": "2",
         "source_url": "/tencent/Hunyuan-A13B-Instruct",
         "data_source": "huggingface"
     },
     {
         "model_name": "google/gemma-3n-E4B-it",
-        "likes": 267,
+        "likes": 269,
         "downloads": "3",
         "source_url": "/google/gemma-3n-E4B-it",
         "data_source": "huggingface"
@@ -64,7 +64,7 @@
     },
     {
         "model_name": "jinaai/jina-embeddings-v4",
-        "likes": 113,
+        "likes": 114,
         "downloads": "3",
         "source_url": "/jinaai/jina-embeddings-v4",
         "data_source": "huggingface"
@@ -78,7 +78,7 @@
     },
     {
         "model_name": "MiniMaxAI/MiniMax-M1-80k",
-        "likes": 605,
+        "likes": 606,
         "downloads": "6",
         "source_url": "/MiniMaxAI/MiniMax-M1-80k",
         "data_source": "huggingface"
@@ -93,7 +93,7 @@
     {
         "model_name": "Comfy-Org/flux1-kontext-dev_ComfyUI",
         "likes": 100,
-        "downloads": "3",
+        "downloads": "4",
         "source_url": "/Comfy-Org/flux1-kontext-dev_ComfyUI",
         "data_source": "huggingface"
     },
@@ -134,8 +134,8 @@
     },
     {
         "model_name": "POLARIS-Project/Polaris-4B-Preview",
-        "likes": 98,
-        "downloads": "14",
+        "likes": 99,
+        "downloads": "16",
         "source_url": "/POLARIS-Project/Polaris-4B-Preview",
         "data_source": "huggingface"
     },
@@ -147,6 +147,13 @@
         "data_source": "huggingface"
     },
     {
+        "model_name": "vrgamedevgirl84/Wan14BT2VFusioniX",
+        "likes": 335,
+        "downloads": "8",
+        "source_url": "/vrgamedevgirl84/Wan14BT2VFusioniX",
+        "data_source": "huggingface"
+    },
+    {
         "model_name": "tencent/Hunyuan3D-2.1",
         "likes": 474,
         "downloads": "2.1",
@@ -154,17 +161,17 @@
         "data_source": "huggingface"
     },
     {
-        "model_name": "vrgamedevgirl84/Wan14BT2VFusioniX",
-        "likes": 334,
-        "downloads": "8",
-        "source_url": "/vrgamedevgirl84/Wan14BT2VFusioniX",
-        "data_source": "huggingface"
-    },
-    {
         "model_name": "lodestones/Chroma",
         "likes": 969,
         "downloads": "3",
         "source_url": "/lodestones/Chroma",
+        "data_source": "huggingface"
+    },
+    {
+        "model_name": "AIDC-AI/Ovis-U1-3B",
+        "likes": 63,
+        "downloads": "1",
+        "source_url": "/AIDC-AI/Ovis-U1-3B",
         "data_source": "huggingface"
     },
     {
@@ -186,13 +193,6 @@
         "likes": 66,
         "downloads": "6",
         "source_url": "/google/videoprism",
-        "data_source": "huggingface"
-    },
-    {
-        "model_name": "AIDC-AI/Ovis-U1-3B",
-        "likes": 56,
-        "downloads": "1",
-        "source_url": "/AIDC-AI/Ovis-U1-3B",
         "data_source": "huggingface"
     },
     {
