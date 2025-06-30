@@ -32,19 +32,19 @@ How to run the scraper:
 To scrape all three sources:  
 ```bash
 poetry run python scraping/src/scraping/main.py --books true --models true --quotes true
-
+```
 To scrape only books: 
 ```bash 
 poetry run python scraping/src/scraping/main.py --books true
-
+```
 To scrape only models:  
 ```bash
 poetry run python scraping/src/scraping/main.py --models true
-
+```
 To scrape only quotes:  
 ```bash
 poetry run python scraping/src/scraping/main.py --quotes true
-
+```
 Scraped data is saved in:
 
 *   staticwebscrape.json (for books)
