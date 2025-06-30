@@ -15,7 +15,8 @@
     
     *   Add core libraries:  
          ```bash
-    poetry add beautifulsoup4,requests,playwright
+         poetry add beautifulsoup4,requests,playwright
+    ```
 
 VERSION CONTROL
     ---------------
@@ -27,20 +28,21 @@ VERSION CONTROL
     *   Track your `pyproject.toml` and `poetry.lock`.
 
 
-   How to run the scraper:
+  How to run the scraper:
 
 To scrape all three sources:  
 ```bash
 poetry run python scraping/src/scraping/main.py --books true --models true --quotes true
-
+```
 To scrape only books: 
 ```bash 
 poetry run python scraping/src/scraping/main.py --books true
-
+```
 To scrape only models:  
 ```bash
 poetry run python scraping/src/scraping/main.py --models true
-
+```
 To scrape only quotes:  
 ```bash
 poetry run python scraping/src/scraping/main.py --quotes true
+```
